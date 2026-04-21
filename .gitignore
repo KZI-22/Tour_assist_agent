@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+.streamlit/
+.venv/
+venv/
+env/
+
+api_key.env
+
+data/chroma_db/
+temp_*
